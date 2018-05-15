@@ -7,7 +7,6 @@ import cv2
 import operator
 
 scenes_file = 'scenes.txt'
-# dataset_file = '/Users/ketan/Downloads/result.json'
 dataset_file = 'result.json'
 object_dataset = 'cropped_objects/'
 output_dir = 'output_dir/'
